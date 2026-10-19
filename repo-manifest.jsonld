@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/scrapy-plugins/scrapy-deltafetch/commit/a8caf39de50ce44abe1950e6d3f3f94a56df393f",
       "git:hexsha": "a8caf39de50ce44abe1950e6d3f3f94a56df393f",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v2.1.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v2.1.0",
+      "repolex:parsedAt": "2026-10-19T13:03:49.385355+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scrapy-plugins/scrapy-deltafetch/commit/b445915a10bcab64511b4891c4aa29e698843b29",
