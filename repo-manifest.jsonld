@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scrapy-plugins/scrapy-deltafetch/commit/a8caf39de50ce44abe1950e6d3f3f94a56df393f",
       "git:hexsha": "a8caf39de50ce44abe1950e6d3f3f94a56df393f",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v2.1.0"
     },
     {
