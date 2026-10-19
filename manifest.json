@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "scrapy-plugins",
+  "repo": "scrapy-deltafetch",
+  "versions": [
+    {
+      "commit": "a8caf39de50ce44abe1950e6d3f3f94a56df393f",
+      "parsed_at": "2026-10-19T13:01:39.258623+00:00",
+      "tag": "v2.1.0",
+      "filetree": "filetree/a8caf39de50ce44abe1950e6d3f3f94a56df393f.nq.gz",
+      "blobs": [
+        "blob/07880e1c3628142ed07e4c776206692e9ca73481.nq.gz",
+        "blob/555500bc9d0375d9b393e38f9c94a6b1292defdb.nq.gz",
+        "blob/6c4228c411ef1f829c32e28fa3fd9e371f812d4c.nq.gz",
+        "blob/6e42d58d9d653cef3e0872fc2c01e64d1f075814.nq.gz",
+        "blob/4f6813f976c21daac9e4d66020e4cf999f944c44.nq.gz",
+        "blob/fd707ad173186ace01c470aa27522c31fbdb725e.nq.gz",
+        "blob/b9b574ed934ceeabfc864f3ba0e77aed539ae346.nq.gz",
+        "blob/9d0e3fc66ce8b0cbf583504d8c74e67e9a297c6d.nq.gz",
+        "blob/d3e17bed373109c1829a89820c1018dbd5df31e6.nq.gz",
+        "blob/98f6514f36ae99e279beac2fe550406851bc0857.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/545885b4dfb7a78bcbf7df42dd6ca00becb71e7c.nq.gz",
+        "blob/bd686f7436b4b11f6dd1a51dcb4110be746f5de5.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
