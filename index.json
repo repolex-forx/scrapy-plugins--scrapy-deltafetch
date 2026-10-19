@@ -1,0 +1,11 @@
+{
+  "org": "scrapy-plugins",
+  "repo": "scrapy-deltafetch",
+  "versions": [
+    {
+      "commit": "a8caf39de50ce44abe1950e6d3f3f94a56df393f",
+      "tag": "v2.1.0",
+      "parsed_at": "2026-10-19T13:03:49.397025+00:00"
+    }
+  ]
+}
